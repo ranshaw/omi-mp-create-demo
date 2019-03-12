@@ -1,0 +1,5 @@
+<view class="ctn">
+  <view>
+    <text> Hello {{test}}!</text>
+  </view>
+</view>
